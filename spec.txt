@@ -1,0 +1,6 @@
+Welcome to ShopEasy.
+Cart totals are shown in cents.
+Discounts apply before tax.
+Shipping cost is 5$ flat.
+Promo codes are case-sensitive.
+Thank you for shopping!
